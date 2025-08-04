@@ -1,2 +1,3 @@
 print("long")
-print("nn")
+print("t")
+print("y")
