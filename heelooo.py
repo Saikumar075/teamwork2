@@ -1,1 +1,2 @@
 print("long")
+print("t")
