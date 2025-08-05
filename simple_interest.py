@@ -6,3 +6,4 @@ def interest():
 
     result = (principle*Time*rate)/100
     print((result))
+    print(result)
