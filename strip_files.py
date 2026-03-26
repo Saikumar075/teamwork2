@@ -1,3 +1,4 @@
+w= "Automation testing"
 q=("".join(w.strip()))
 print(q)
 
